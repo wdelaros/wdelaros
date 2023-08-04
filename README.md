@@ -1,7 +1,11 @@
 ### Hi there 👋
 
+&nbsp;
+
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clkvtzpoi016408mguh0s2kdi/stats?cursusId=9&coalitionId=piscine" alt="wdelaros's 42 stats" /></a>
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clkvtzpoi016408mguh0s2kdi/stats?cursusId=21&coalitionId=249" alt="wdelaros's 42 stats" /></a>
+
+&nbsp;
 
 ## Ongoing project
 <div align=center>
