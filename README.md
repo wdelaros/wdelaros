@@ -13,6 +13,13 @@
 
 ## Projects done at 42
 <div align=center>
+  <!--<h3>Circle 4</h3>
+  <a href="https://github.com/wdelaros/NetPractice"><img alt="NetPractice" src="https://github.com/wdelaros/42-project-badges/blob/main/badges/netpracticee.png"></a>
+  <a href="https://github.com/wdelaros/Cub3D"><img alt="cub3d" src="https://github.com/wdelaros/42-project-badges/blob/main/badges/cub3de.png"></a>
+  <a href="https://github.com/wdelaros/CPP"><img alt="cpp" src="https://github.com/wdelaros/42-project-badges/blob/main/badges/cppe.png"></a>
+  </br>
+  <p>&nbsp;100%&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;101%</p>-->
+  
   <h3>Circle 3</h3>
   <a href="https://github.com/wdelaros/Philosophers"><img alt="philosophers" src="https://github.com/wdelaros/42-project-badges/blob/main/badges/philosopherse.png"></a>
  <!-- <a href="https://github.com/wdelaros/minishell"><img alt="minishell" src="https://github.com/wdelaros/42-project-badges/blob/main/badges/minishelle.png"></a>-->
