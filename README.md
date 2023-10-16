@@ -6,7 +6,7 @@
 
 ## Ongoing project
 <div align=center>
-  <a href="https://github.com/wdelaros/minishell"><img alt="minishell" src="https://github.com/wdelaros/42-project-badges/blob/main/badges/minishelle.png"></a>
+  <!--<a href="https://github.com/wdelaros/minishell"><img alt="minishell" src="https://github.com/wdelaros/42-project-badges/blob/main/badges/minishelle.png"></a>-->
   </br>
   <!--<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clkvtzpoi016408mguh0s2kdi/project/3090856" alt="wdelaros's 42 minishell Score" /></a>-->
 </div>
@@ -22,10 +22,9 @@
   
   <h3>Circle 3</h3>
   <a href="https://github.com/wdelaros/Philosophers"><img alt="philosophers" src="https://github.com/wdelaros/42-project-badges/blob/main/badges/philosopherse.png"></a>
- <!-- <a href="https://github.com/wdelaros/minishell"><img alt="minishell" src="https://github.com/wdelaros/42-project-badges/blob/main/badges/minishelle.png"></a>-->
+ <a href="https://github.com/wdelaros/minishell"><img alt="minishell" src="https://github.com/wdelaros/42-project-badges/blob/main/badges/minishelle.png"></a>
   </br>
-  <p>100%</p>
-  <!--<p>&nbsp;100%&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;101%</p>-->
+  <p>&nbsp;100%&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;101%</p>
   <!--
   <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clkvtzpoi016408mguh0s2kdi/project/3074975" alt="wdelaros's 42 Philosophers Score" /></a>
    <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clkvtzpoi016408mguh0s2kdi/project/3090856" alt="wdelaros's 42 minishell Score" /></a>-->
