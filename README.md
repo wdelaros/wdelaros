@@ -6,9 +6,7 @@
 
 ## Ongoing project
 <div align=center>
-  <!--<a href="https://github.com/wdelaros/minishell"><img alt="minishell" src="https://github.com/wdelaros/42-project-badges/blob/main/badges/minishelle.png"></a>-->
-  </br>
-  <!--<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clkvtzpoi016408mguh0s2kdi/project/3090856" alt="wdelaros's 42 minishell Score" /></a>-->
+  <a href="https://github.com/wdelaros/Cub3D"><img alt="minishell" src="https://github.com/wdelaros/42-project-badges/blob/main/badges/cub3de.png"></a>
 </div>
 
 ## Projects done at 42
