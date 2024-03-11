@@ -6,7 +6,7 @@
 
 ## Ongoing project
 <div align=center>
-  <!--<a href="https://github.com/wdelaros/Cub3D">--><img alt="cpp" src="https://github.com/wdelaros/42-project-badges/blob/main/badges/cppe.png"><!--</a>-->
+  <!--<a href="https://github.com/wdelaros/ft_irc">--><img alt="cpp" src="https://github.com/wdelaros/42-project-badges/blob/main/badges/cppe.png"><!--</a>-->
 </div>
 
 ## Projects done at 42
@@ -17,6 +17,7 @@
   <!--<a href="https://github.com/wdelaros/CPP"><img alt="cpp" src="https://github.com/wdelaros/42-project-badges/blob/main/badges/cppe.png"></a>-->
   </br>
   <p>&nbsp;100%&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;106%</p>
+ <!--<p>&nbsp;100%&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;106%&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;100%</p>-->
   
   <h3>Circle 3</h3>
   <a href="https://github.com/wdelaros/Philosophers"><img alt="philosophers" src="https://github.com/wdelaros/42-project-badges/blob/main/badges/philosopherse.png"></a>
