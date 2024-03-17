@@ -6,7 +6,7 @@
 
 ## Ongoing project
 <div align=center>
-  <a href="https://github.com/wdelaros/CPP"><img alt="cpp" src="https://github.com/wdelaros/42-project-badges/blob/main/badges/cppe.png"></a>
+  <a href="https://github.com/wdelaros/Inception"><img alt="inception" src="https://github.com/wdelaros/42-project-badges/blob/main/badges/inceptione.png"></a>
 </div>
 
 ## Projects done at 42
