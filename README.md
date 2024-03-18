@@ -7,6 +7,7 @@
 ## Ongoing project
 <div align=center>
   <a href="https://github.com/wdelaros/Inception"><img alt="inception" src="https://github.com/wdelaros/42-project-badges/blob/main/badges/inceptione.png"></a>
+  <a href="https://github.com/wdelaros/ft_irc"><img alt="irc" src="https://github.com/wdelaros/42-project-badges/blob/main/badges/ft_irce.png"></a>
 </div>
 
 ## Projects done at 42
