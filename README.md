@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div align=center>
-  <a href="https://profile.intra.42.fr/"><img src="https://badge42.vercel.app/api/v2/clkvtzpoi016408mguh0s2kdi/stats?cursusId=21&coalitionId=249" alt="wdelaros's 42 stats" /></a>
+  <a href="https://github.com/Coday-meric/badge42"><img src="https://badge42.coday.fr/api/v2/clu8td3uy2402501p4u2my2rg5/stats?cursusId=21&coalitionId=249" alt="wdelaros's 42 stats" /></a>
 </div>
 
 ## Ongoing project
