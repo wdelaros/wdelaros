@@ -6,25 +6,26 @@
 
 ## Ongoing project
 <div align=center>
-  <a href="https://github.com/wdelaros/Inception"><img alt="inception" src="https://github.com/ayogun/42-project-badges/blob/main/badges/inceptione.png"></a>
 </div>
 
 ## Projects done at 42
 <div align=center>
   <h3>Circle 5</h3>
+  <a href="https://github.com/wdelaros/CPP"><img alt="cpp" src="https://github.com/ayogun/42-project-badges/blob/main/badges/cppe.png"></a>
   <a href="https://github.com/wdelaros/ft_irc"><img alt="irc" src="https://github.com/ayogun/42-project-badges/blob/main/badges/ft_irce.png"></a>
+  <a href="https://github.com/wdelaros/Inception"><img alt="inception" src="https://github.com/ayogun/42-project-badges/blob/main/badges/inceptione.png"></a>
   </br>
+  <a href="https://github.com/Coday-meric/badge42"><img src="https://badge42.coday.fr/api/v2/clu8td3uy2402501p4u2my2rg5/project/3567773" alt="wdelaros's 42 CPP Module 06 Score" /></a>
   <a href="https://github.com/Coday-meric/badge42"><img src="https://badge42.coday.fr/api/v2/clu8td3uy2402501p4u2my2rg5/project/3600148" alt="wdelaros's 42 ft_irc Score" /></a>
+  <a href="https://github.com/Coday-meric/badge42"><img src="https://badge42.coday.fr/api/v2/clu8td3uy2402501p4u2my2rg5/project/3600150" alt="wdelaros's 42 Inception Score" /></a>
   
   <h3>Circle 4</h3>
   <a href="https://github.com/wdelaros/NetPractice"><img alt="NetPractice" src="https://github.com/ayogun/42-project-badges/blob/main/badges/netpracticem.png"></a>
   <a href="https://github.com/wdelaros/Cub3D"><img alt="Cub3D" src="https://github.com/ayogun/42-project-badges/blob/main/badges/cub3de.png"></a>
-  <a href="https://github.com/wdelaros/CPP"><img alt="cpp" src="https://github.com/ayogun/42-project-badges/blob/main/badges/cppe.png"></a>
   </br>
 <!--  <p>100%&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;106%&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;91%</p> -->
   <a href="https://github.com/Coday-meric/badge42"><img src="https://badge42.coday.fr/api/v2/clu8td3uy2402501p4u2my2rg5/project/3364905" alt="wdelaros's 42 NetPractice Score" /></a>
   <a href="https://github.com/Coday-meric/badge42"><img src="https://badge42.coday.fr/api/v2/clu8td3uy2402501p4u2my2rg5/project/3379207" alt="wdelaros's 42 cub3d Score" /></a>
-  <a href="https://github.com/Coday-meric/badge42"><img src="https://badge42.coday.fr/api/v2/clu8td3uy2402501p4u2my2rg5/project/3567773" alt="wdelaros's 42 CPP Module 06 Score" /></a>
   
   <h3>Circle 3</h3>
   <a href="https://github.com/wdelaros/Philosophers"><img alt="philosophers" src="https://github.com/ayogun/42-project-badges/blob/main/badges/philosopherse.png"></a>
