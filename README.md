@@ -6,6 +6,7 @@
 
 ## Ongoing project
 <div align=center>
+  <a href="https://github.com/ztrottie/ft_transcendence"><img alt="cpp" src="https://github.com/ayogun/42-project-badges/blob/main/badges/ft_transcendencee.png"></a>
 </div>
 
 ## Projects done at 42
