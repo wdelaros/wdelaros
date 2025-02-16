@@ -1,12 +1,10 @@
 ### Hi there 👋
 
-## Ongoing project
-<div align=center>
-  <a href="https://github.com/wdelaros/ft_transcendence"><img alt="cpp" src="https://github.com/ayogun/42-project-badges/blob/main/badges/ft_transcendencee.png"></a>
-</div>
-
 ## Projects done at 42
 <div align=center>
+  <h3>Circle 6</h3>
+  <a href="https://github.com/wdelaros/ft_transcendence"><img alt="transcendence" src="https://github.com/ayogun/42-project-badges/blob/main/badges/ft_transcendencee.png"></a>
+  
   <h3>Circle 5</h3>
   <a href="https://github.com/wdelaros/CPP"><img alt="cpp" src="https://github.com/ayogun/42-project-badges/blob/main/badges/cppe.png"></a>
   <a href="https://github.com/wdelaros/ft_irc"><img alt="irc" src="https://github.com/ayogun/42-project-badges/blob/main/badges/ft_irce.png"></a>
